@@ -106,6 +106,6 @@ if ($extension == "jpg" || $extension == "jpeg") {
 imagedestroy($image);
 
 /*
-Simply use like so: <img src="kp_resizer_v2.php?src=slider/1.jpg&w=480" />
+Simply use like so: <img src="kp_resizer.php?src=slider/1.jpg&w=480" />
 */
 ?>
